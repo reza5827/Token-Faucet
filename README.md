@@ -6,6 +6,5 @@ Faucet for testnet tokens.
 - Sepolia
 - Mumbai
 ## License
-
 MIT
  sudo
