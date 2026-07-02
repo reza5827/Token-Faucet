@@ -3,7 +3,7 @@
 Faucet for testnet tokens.
 ## Supported Networks
 - Goerli
-- Sepolia
+- 
 - Mumbai
 ## License
 MIT
