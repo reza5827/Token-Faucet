@@ -2,8 +2,6 @@
 # Testnet Token Faucet
 Faucet for testnet tokens.
 ## Supported Networks
-- Goerli
-- 
-- Mumbai
+- Goerli- Mumbai
 ## License
 MIT
