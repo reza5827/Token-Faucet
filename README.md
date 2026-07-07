@@ -7,4 +7,3 @@ Faucet for testnet tokens.
 - Mumbai
 ## License
 MIT
- sudo
