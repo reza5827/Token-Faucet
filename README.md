@@ -1,6 +1,6 @@
 # Token-Faucet
 # Testnet Token Faucet
 Faucet for testnet tokens.
-## Supported Networks
+##  Networks
 - Goerli- Mumbai
 ## License
